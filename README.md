@@ -1,6 +1,6 @@
 # User Management Fullstack App
 
-A full-stack **user** management web application that provides complete CRUD (Create, Read, Update, Delete) operations for managing users.
+A full-stack **user** management web application based on **React** that provides complete CRUD (Create, Read, Update, Delete) operations for managing users.
 
 ## Features
 
